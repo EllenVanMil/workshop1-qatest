@@ -9,7 +9,7 @@ Library     Collections
 ${API_URL}                  https://api.openai.com/v1/chat/completions
 # This is example how the token should look link but do not store it here
 # see README.MD for more details to set it up as system environment
-# ${TOKEN}    Bearer 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
+${TOKEN}                    Bearer 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
 ${TOKEN}                    %{OPENAI_API_KEY}
 ${MODEL}                    gpt-3.5-turbo-0613
 ${ROLE}                     user
