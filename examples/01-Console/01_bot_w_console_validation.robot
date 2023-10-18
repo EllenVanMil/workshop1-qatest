@@ -6,7 +6,7 @@ Resource    ../../resources/asserts.robot
 
 
 *** Variables ***
-${URL}                              %{URL=https://dronjo.wopee.io}
+${URL}                              %{URL=https://portal.ixon.cloud}
 
 ${ERR_COUNT}                        0
 ${WARN_COUNT}                       0
